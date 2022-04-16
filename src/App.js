@@ -37,6 +37,7 @@ const App = () => {
         { name: "nº de vistas", group: 30000, me: 25000},
         { name: "nº de contribuciones", group: 15000, me: 20000},
     ];
+
     const dates_as_int = ["15/02/2022", "17/02/2022", "20/02/2022", "21/02/2022", "02/02/2022", "05/02/2022", "10/02/2022"];
 
     for(const i in dates_as_int){
